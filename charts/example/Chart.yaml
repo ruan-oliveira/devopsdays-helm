@@ -1,0 +1,7 @@
+apiVersion: v2
+name: example
+description: A Helm chart for Kubernetes
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
+icon: https://d33wubrfki0l68.cloudfront.net/12e7e7a93910d329d1baa285d2de44477b547658/774c5/events/2023-juiz-de-fora/images/event-logo.png
